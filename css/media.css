@@ -1,0 +1,199 @@
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+     .navbar-toggler i{
+        color: #fff;
+    }
+    
+    #play {
+	padding-top: 150px;
+	padding-bottom: 140px;
+    }
+    
+    #expreince-main {
+	padding-bottom: 30px;
+    }
+    
+    .navbar-nav {
+	background: #5c3737;;
+    }
+    
+    .navbar-toggler {
+	border: 0;
+    }
+    
+    button:focus {
+	outline: 0;
+    }
+    
+    .navbar .navbar-nav .nav-link {
+	text-align: center;
+    }
+    
+    .suk a {
+	padding: 8px 3px;
+    }
+    
+    .suk {
+	display: flex;
+	justify-content: center;
+    }
+    
+    .text h1{
+        padding-top: 35px;
+    }
+    
+    .text p {
+	padding-bottom: 15px;
+    }
+    
+    .text a {
+	padding: 8px 9px;
+    }
+    
+    
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-toggler i{
+        color: #fff;
+    }
+    
+    .st img {
+	width: 150px;
+	height: 150px;
+    } 
+    
+    #play {
+	padding-top: 150px;
+	padding-bottom: 140px;
+    }
+    
+    #expreince-main {
+	padding-bottom: 30px;
+    }
+    
+    .navbar-nav {
+	background: #5c3737;;
+    }
+    
+    .navbar-toggler {
+	border: 0;
+    }
+    
+    button:focus {
+	outline: 0;
+    }
+    
+    .navbar .navbar-nav .nav-link {
+	text-align: center;
+    }
+    
+    .text p {
+	font-size: 8px;
+    padding-bottom: 5px;
+    }
+   
+    .text h1{
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+    
+    .text a {
+	padding: 4px 6px;
+    }
+    
+    .text h1:after{
+        display: none;
+    }
+    
+    
+}
+
+@media (max-width: 575.98px) {
+     .navbar-toggler i{
+        color: #fff;
+    }
+    
+    .st-item h2 {
+	padding-top: 20px;
+    }
+    
+    .st-item{
+        text-align: center;
+    }
+    
+    #play {
+	padding-top: 150px;
+	padding-bottom: 140px;
+    }
+    
+    #expreince-main {
+	padding-bottom: 30px;
+    }
+    
+    .navbar-nav {
+	background: #5c3737;;
+    }
+    
+    .navbar-toggler {
+	border: 0;
+    }
+    
+    button:focus {
+	outline: 0;
+    }
+    
+    .navbar .navbar-nav .nav-link {
+	text-align: center;
+    }
+    
+    .text p {
+	font-size: 9px;
+    padding-bottom: 5px;
+    
+    }
+   
+    .text h1{
+        font-size: 15px;
+        padding-bottom: 10px;
+    }
+    
+    .text a {
+	padding: 4px 6px;
+    }
+    
+    .text h1:after{
+        display: none;
+    }
+    .slick-item img{
+        width: 500px;
+        height: 300px;
+        margin: auto;
+    }
+    
+    .content-item h3 {
+	margin-top: 35px;
+	text-align: center;
+    }
+    
+    #feedback {
+	padding-top: 50px;
+    }
+    
+    .feedback-item p {
+	font-size: 12px;
+    padding-top: 20px;
+    }
+      
+    .team-site h2 {
+	font-size: 18px;
+    }
+    
+    .mkl a {
+	padding: 8px 8px;
+    }
+    
+    img{
+        vertical-align: middle;
+    }
+    
+}
